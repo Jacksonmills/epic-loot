@@ -17,32 +17,20 @@ Epic Loot is a web application that allows users to create and share customizabl
 To get started with Epic Loot, follow the instructions below:
 
 1. Clone the repository:
-
-\```
 git clone https://github.com/yourusername/epic-loot.git
-\```
 
 2. Change to the project directory:
-
-\```
 cd epic-loot
-\```
 
 3. Install the required dependencies:
-
-\```
 npm install
-\```
 
 4. Start the development server:
+npm run dev
 
-\```
-npm start
-\```
+The application will be available at `http://localhost:5173`.
 
-The application will be available at `http://localhost:3000`.
-
-## Usage
+## Usage (WIP)
 
 1. Visit the Epic Loot application in your web browser.
 2. Click on the "Create Tooltip" button to open the tooltip editor.
